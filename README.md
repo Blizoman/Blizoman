@@ -5,6 +5,6 @@
 ### 🛠 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,bash,vim&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,linux,githubactions&theme=dark" />
   </a>
 </p>
